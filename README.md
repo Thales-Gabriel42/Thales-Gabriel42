@@ -3,28 +3,33 @@
 <b>About Me:</b>
 
 <a href="https://www.instagram.com/tael42f/">
-<img align="center" alt="Instagram" width="40px" src="github-instagram-icon.png?raw=true" />
+<img align="center" alt="Instagram" width="42px" src="github-instagram-icon.png?raw=true"  title="@tael42f"/>
 </a>
 
-My name's Thales Gabriel de Lima I'm a 19 years old student I live in Franca-SP and I'm in search of knowledge and improvement. I like Technology and eletronics. I want to learn JavaScript, Java and improve my skills in Arduino programming. I also want to program games I have a little knowledge in Unity and I want to upgrade them.
+### My name's Thales Gabriel de Lima I'm a 19 years old student I live in Franca-SP and I'm in search of knowledge and improvement. I like Technology and eletronics. I want to learn JavaScript, Java and improve my skills in Arduino programming. I also want to program games I have a little knowledge in Unity and I want to upgrade them.
 
-<b>
+### <b>
 - Languages
 </b>
 
 <p>
-<img align="center" alt="CSharp" width="40px" src="/github-csharp-icon.png?raw=true" />
+<img align="center" alt="CSharp" width="48px" src="/github-csharp-icon.png?raw=true"  title="CSharp"/>
 </p>
 
-<b>
+### <b>
 - Tools
 </b>
 
 <p>
-<img align="center" alt="VisualStudio" width="38px" src="github-visualstudio-icon.png?raw=true" />
-<img align="center" alt="VisualStudioCode" width="38px" src="github-visualstudiocode-icon.png?raw=true" />
-<p/>
+<img align="center" alt="VisualStudio" width="38px" src="github-visualstudio-icon.png?raw=true" title="Visual Studio"/>
+<img align="center" alt="VisualStudioCode" width="50px" src="github-visualstudiocode-icon.png?raw=true"  title="Visual Studio Code"/>
+</p>
 
-<p>
-That's all folks, for a while. <img align="center" alt="CSharp" width="60" src="/github-dontpanic.png?raw=true" />
-<p/>
+### <b>📈 GitHub Stats:</b>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thales-Gabriel42&show_icons=true&theme=radical)
+
+
+<div align="center">
+<b>That's all folks, for a while.</b> <img align="center" alt="CSharp" width="60" src="/github-dontpanic.png?raw=true"  title="Don't Panic"/>
+</div>
