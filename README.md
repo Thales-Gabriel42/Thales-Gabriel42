@@ -22,7 +22,7 @@ My name's Thales Gabriel de Lima I'm a 19 years old student I live in Franca-SP 
 
 <p>
 <img align="center" alt="VisualStudio" width="38px" src="github-visualstudio-icon.png?raw=true" />
-<img align="center" alt="VisualStudioCode" width="38px" src="?raw=true" />
+<img align="center" alt="VisualStudioCode" width="38px" src="github-visualstudiocode-icon?raw=true" />
 <p/>
 
 <p>
