@@ -1,18 +1,30 @@
-### Hi there 👋
-![DontPanic](/github-dontpanic.png?raw=true)
-![CSharp](/github-csharp-icon.png?raw=true)
-<!--
-**Thales-Gabriel42/Thales-Gabriel42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###<b>Hi there 👋</b>
 
+<b>About Me:</b>
 
-Here are some ideas to get you started:
+<a href="https://www.instagram.com/tael42f/">
+<img align="center" alt="Instagram" width="40px" src="file:///C:/Users/Thales/Desktop/VSC/icones/insta.png?raw=true" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name's Thales Gabriel de Lima I'm a 19 years old student I live in Franca-SP and I'm in search of knowledge and improvement. I like Technology and eletronics. I want to learn JavaScript, Java and improve my skills in Arduino programming. I also want to program games I have a little knowledge in Unity and I want to upgrade them.
+
+<b>
+- Languages
+</b>
+
+<p>
+<img align="center" alt="CSharp" width="40px" src="/github-csharp-icon.png?raw=true" />
+</p>
+
+<b>
+- Tools
+</b>
+
+<p>
+<img align="center" alt="VisualStudio" width="38px" src="file:///C:/Users/Thales/Desktop/VSC/icones/visualStudio.png?raw=true" />
+<img align="center" alt="VisualStudioCode" width="38px" src="file:///C:/Users/Thales/Desktop/VSC/icones/vsCode.jfif?raw=true" />
+<p/>
+
+<p>
+That's all folks, for a while. <img align="center" alt="CSharp" width="60" src="/github-dontpanic.png?raw=true" />
+<p/>
