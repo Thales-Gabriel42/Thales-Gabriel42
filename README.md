@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Welcome](/github-profile-dontpanic.png?raw=true)
+![DontPanic](/github-dontpanic.png?raw=true)
 <!--
 **Thales-Gabriel42/Thales-Gabriel42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
