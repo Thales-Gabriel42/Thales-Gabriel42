@@ -1,6 +1,6 @@
-<b>Hi there 👋</b>
+<h1>Hi there 👋</h1>
 
-<b>About Me:</b>
+<b>💬About Me:</b>
 
 <a href="https://www.instagram.com/tael42f/">
 <img align="center" alt="Instagram" width="42px" src="github-instagram-icon.png?raw=true"  title="@tael42f"/>
@@ -26,7 +26,6 @@
 </p>
 
 ### <b>📈 GitHub Stats:</b>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thales-Gabriel42&show_icons=true&theme=radical)
 
 
