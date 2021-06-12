@@ -27,8 +27,7 @@
 
 ### <b>📈 GitHub Stats:</b>
 ![Thales's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thales-Gabriel42&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Gabriel42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Gabriel42&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 <b>That's all folks, for a while.</b> <img align="center" alt="CSharp" width="60" src="/github-dontpanic.png?raw=true"  title="Don't Panic"/>
