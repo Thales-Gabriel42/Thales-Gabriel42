@@ -3,7 +3,7 @@
 <b>💬About Me:</b>
 
 <a href="https://www.instagram.com/tael42f/">
-<img align="center" alt="Instagram" width="42px" src="github-instagram-icon.png?raw=true"  title="@tael42f"/>
+<img align="center" alt="Instagram" width="42px" src="./img/github-instagram-icon.png?raw=true"  title="@tael42f"/>
 </a>
 
 ### My name's Thales Gabriel de Lima I'm a 19 years old student I live in Franca-SP and I'm in search of knowledge and improvement. I like Technology and eletronics. I want to learn Java and improve my skills in Arduino programming.
@@ -13,7 +13,7 @@
 </b>
 
 <p>
-<img align="center" alt="CSharp" width="48px" src="/github-csharp-icon.png?raw=true"  title="CSharp"/>
+<img align="center" alt="CSharp" width="48px" src="./img/github-csharp-icon.png?raw=true"  title="CSharp"/>
 </p>
 
 ### <b>
@@ -21,8 +21,8 @@
 </b>
 
 <p>
-<img align="center" alt="VisualStudio" width="38px" src="github-visualstudio-icon.png?raw=true" title="Visual Studio"/>
-<img align="center" alt="VisualStudioCode" width="50px" src="github-visualstudiocode-icon.png?raw=true"  title="Visual Studio Code"/>
+<img align="center" alt="VisualStudio" width="38px" src="./img/github-visualstudio-icon.png?raw=true" title="Visual Studio"/>
+<img align="center" alt="VisualStudioCode" width="50px" src="./img/github-visualstudiocode-icon.png?raw=true"  title="Visual Studio Code"/>
 </p>
 
 ### <b>📈 GitHub Stats:</b>
