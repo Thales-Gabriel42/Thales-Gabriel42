@@ -6,7 +6,7 @@
 <img align="center" alt="Instagram" width="42px" src="github-instagram-icon.png?raw=true"  title="@tael42f"/>
 </a>
 
-### My name's Thales Gabriel de Lima I'm a 19 years old student I live in Franca-SP and I'm in search of knowledge and improvement. I like Technology and eletronics. I want to learn Java and improve my skills in Arduino programming.
+### My name's Thales Gabriel de Lima I'm a 20 years old student I live in Franca-SP and I'm in search of knowledge and improvement. I like Technology and eletronics. I want to learn Java and improve my skills in Arduino programming.
 
 ### <b>
 - Languages
