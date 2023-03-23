@@ -24,8 +24,8 @@
 </b>
 
 <p align="left">
-<img alt="VisualStudio" width="38px" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white" title="Visual Studio"/>
-<img alt="VisualStudioCode" width="50px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"  title="Visual Studio Code"/>
+<img alt="VisualStudio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white" title="Visual Studio"/>
+<img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"  title="Visual Studio Code"/>
 </p>
 
 ### <b>📈 GitHub Stats:</b>
