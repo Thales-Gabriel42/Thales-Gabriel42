@@ -6,7 +6,9 @@
   <a href="https://www.instagram.com/tael42f/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"  title="@tael42f"/></a>
   <a href="www.linkedin.com/in/thales-lima42">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"  title="LinkedIn-Thales"/></a>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"  title="LinkedIn - Thales Lima"/></a>
+  <a href="mailto:thalesgabriel42@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"  title="Gmail - Thales Lima"/></a>
 </p>
   
 ### Meu nome é Thales Gabriel de Lima, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas na fatec Franca. Estou sempre em busca de novos conhecimentos e aprimoramento das minhas habilidades, gosto da área de tecnologia em geral.
