@@ -2,7 +2,7 @@
 
 <b>💬About Me:</b>
 
-### My name is Thales Gabriel de Lima. I'm a 22-year-old student living in Franca-SP, and I'm in search of knowledge and self-improvement. I'm passionate about technology and electronics. I want to enhance my skills in programming.
+### My name is Thales Gabriel de Lima. I'm a 22 years old student living in Franca-SP, and I'm in search of knowledge and self-improvement. I'm passionate about technology and electronics. I want to enhance my skills in programming.
 
 <p align="left">
   <a href="https://www.instagram.com/tael42f/">
