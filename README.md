@@ -58,7 +58,7 @@
   <p align="right">
 
   **Systems Analysis and Development** <br />
-  [**FATEC**](https://site.fatecfranca.edu.br) • jan/2020 > dec/2023 <br />
+  [**FATEC**](https://site.fatecfranca.edu.br) • jan/2021 > dec/2023 <br />
   Higher education
   </p>
 </div>
